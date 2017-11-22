@@ -1,6 +1,6 @@
-# File to read proximity sensor data.
+# File to read proximity sensor data with frequency 60 Hz.
 # Sensor: VCNL4020 (http://www.vishay.com/docs/84136/designingvcnl4020.pdf).
-# Author: Anastassiya Makarenko.
+# Author: Anastassiya Makarenko, Universität Freiburg, 2017.
  
 import smbus
 import time
