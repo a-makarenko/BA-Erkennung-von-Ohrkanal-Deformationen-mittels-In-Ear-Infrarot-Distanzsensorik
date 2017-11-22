@@ -8,3 +8,5 @@ Benutzte Bibliothek und Software.
 Videobearbeitung wurde mit Hilfe Ffmpeg gemacht: https://ffmpeg.org/
 
 Untertiteln wurden mit Hilfe Aegisub erstellt: http://www.aegisub.org/
+
+Maschinelles Lernen mit Hilfe scikit-learn: http://scikit-learn.org/stable/
