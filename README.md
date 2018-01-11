@@ -11,4 +11,4 @@ Untertiteln wurden mit Hilfe Aegisub erstellt: http://www.aegisub.org/
 
 Maschinelles Lernen mit Hilfe scikit-learn: http://scikit-learn.org/stable/
 
-Extrahieren Features mit Hilfe tsfresh: https://tsfresh.readthedocs.io/en/latest/
+Extrahieren von Features mit Hilfe tsfresh: https://tsfresh.readthedocs.io/en/latest/
